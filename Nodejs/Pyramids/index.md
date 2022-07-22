@@ -1,4 +1,4 @@
-**1) Downward Triangle Start Pattern**
+**1) Downward Triangle Star Pattern**
 ```
 let no = 5;
 let string = '';
